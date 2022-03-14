@@ -15,7 +15,7 @@ THE CODE IS COMING SOON !
 ![tst_githubvideo_3](https://user-images.githubusercontent.com/19242829/158142959-7887841e-8a48-43d1-9f07-9371af8cbb09.gif)
 
 - Speech transfer
-![tst_githubvideo](https://user-images.githubusercontent.com/19242829/158141129-4a27520e-1482-47a7-baeb-1f3e15583072.gif)
+
 
 # Installation
 
