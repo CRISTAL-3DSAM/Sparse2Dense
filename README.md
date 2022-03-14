@@ -7,12 +7,12 @@ THE CODE IS COMING SOON !
 # Results
 
 - 4D Facial expression generation
-- 
+ 
 ![tst_githubvideo_4](https://user-images.githubusercontent.com/19242829/158143735-a38fece3-75ed-4d4e-b873-bb167624c846.gif)
 
 
 - Interpolation between 4D facial expressions 
-- 
+ 
 ![tst_githubvideo_2](https://user-images.githubusercontent.com/19242829/158142211-174651ec-0f46-4ebd-8a3d-0564f24b77a4.gif)
 ![tst_githubvideo_3](https://user-images.githubusercontent.com/19242829/158142959-7887841e-8a48-43d1-9f07-9371af8cbb09.gif)
 
