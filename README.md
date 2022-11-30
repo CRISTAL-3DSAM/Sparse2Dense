@@ -29,6 +29,11 @@ S2D: used to train and test the decoder that deforms the 3d mesh according to a 
 
 You will find a Readme file inside each one of these folders with the installation and the usage instructions.
 
+# Models
+Please download models from the link below and include them in S2D\Models folder.
+
+https://drive.google.com/drive/folders/1-RdBhUfP7JcxihVCT4AdLRYfSBOD9Rmq?usp=sharing
+
 # Reference
 Please cite the following paper if you use the code directly or indirectly in your research/projects.
 
