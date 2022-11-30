@@ -25,7 +25,7 @@ The code is divided into two folders:
 
 Motion3DGAN: used to train a GAN generator of 3D landmarks motion;
 
-S2D: used to train and test the decoder that deforms the 3d mesh according to a given landmarks configuration;
+S2D: used to train and test the decoder that deforms the 3D mesh according to a given landmarks configuration;
 
 You will find a Readme file inside each one of these folders with the installation and the usage instructions.
 
