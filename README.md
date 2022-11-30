@@ -34,6 +34,16 @@ Please download models from the link below and include them in S2D\Models folder
 
 https://drive.google.com/drive/folders/1-RdBhUfP7JcxihVCT4AdLRYfSBOD9Rmq?usp=sharing
 
+# Acknowledgments
+This work was supported by the French State, managed
+by National Agency for Research (ANR) National Agency
+for Research (ANR) under the Investments for the future
+program with reference ANR-16-IDEX-0004 ULNE and
+by the ANR project Human4D ANR-19-CE23-0020. This
+paper was also partially supported by European Union’s
+Horizon 2020 research and innovation program under grant
+number 951911 - AI4Media.
+
 # Reference
 Please cite the following paper if you use the code directly or indirectly in your research/projects.
 
